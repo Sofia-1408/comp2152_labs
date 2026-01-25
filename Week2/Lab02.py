@@ -27,5 +27,5 @@ else:
         print("Paper beats Rock - You lose!")
     elif playerChoice == 2 and computerChoice == 3:
         print("Scissors beats Paper - You lose!")
-
+#Lab complete
         
